@@ -1,7 +1,7 @@
-﻿# 
+# 
 # 05/13/2022 10:04:08
 # Les paramètres définis dans le projet sont :
-# ,P1 - RayonDiaphragme [mm],P6 - VitesseEntree [m s^-1],P3 - trainee-op [N],P5 - PertePressionTotale [Pa]
+# P1 - RayonDiaphragme [mm],P6 - VitesseEntree [m s^-1],P3 - trainee-op [N],P5 - PertePressionTotale [Pa]
 # 
 # La ligne d'en-tête suivante définit le nom des colonnes en référence aux paramètres.
 Nom,P1,P6,P3,P5
